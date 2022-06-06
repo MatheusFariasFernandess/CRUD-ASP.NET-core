@@ -24,14 +24,18 @@
                     <th>Ações</th>
                 </tr>
             </thead>
-
             <tbody>
-                @foreach (var item in Model)
-                {
-                  <td> @item.Nome</td>
-                  <td> @item.Email</td>
-                  <td asp-action="Cadastrar" asp-route-id="@item.Id" class="btn btn-primary">Alterar</td>
-                }
+               @foreach (var item in Model)
+               {
+                  <tr>
+                   <td>@item.Nome</td> 
+                   <td>@item.Email</td>
+                   <td>
+                       <a asp-action="Cadastrar" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Alterar</a>
+                   </td>
+                  </tr> 
+                  
+               }
             </tbody>
         </table>
     </div>
