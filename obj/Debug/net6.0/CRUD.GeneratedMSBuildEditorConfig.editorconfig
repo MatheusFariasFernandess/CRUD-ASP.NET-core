@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CRUD
 build_property.RootNamespace = CRUD
-build_property.ProjectDir = /home/matheus/Documentos/ASP.NET /CRUD/
+build_property.ProjectDir = /home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/matheus/Documentos/ASP.NET /CRUD
+build_property.MSBuildProjectDirectory = /home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Home/Cadastrar.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Cadastrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWRhc3RyYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Home/Index.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Home/Privacy.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Home/Usuarios.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Usuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Vc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Shared/Error.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/_ViewImports.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/_ViewStart.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/matheus/Documentos/ASP.NET /CRUD/Views/Shared/_Layout.cshtml]
+[/home/aluno/Documentos/C\#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k3oxoo0ktn

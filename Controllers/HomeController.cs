@@ -25,9 +25,10 @@ namespace CRUD.Controllers
         [HttpPost]
         public IActionResult Cadastrar(Usuario usuario)
         {
-            Usuario user= new Usuario();
 
-            return View(usuario.ExibirListagem);
+            Usuario.Salvar(usuario);
+
+            return RedirectToAction("Usuarios");
         }
         public IActionResult Usuarios()
         {

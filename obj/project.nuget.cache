@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7p7cY9EA9P3sZVV0c7SOA83T6w6kEI6QdYzaQSXaAXJeg4P/oHNDs0nXePb5Dtx5XAVuzdplHcdaCwLXvrtpw==",
+  "dgSpecHash": "si1EPDGBpDzPKh8XPePnlkdmTMsi8xwDx1T+tjnXYMurMXlrpfCTyArLMu8ywo8K6FTkCbnqKlAjUcmivjVqEg==",
   "success": true,
-  "projectFilePath": "/home/matheus/Documentos/ASP.NET /CRUD/CRUD.csproj",
+  "projectFilePath": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/CRUD.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

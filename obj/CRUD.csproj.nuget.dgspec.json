@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/matheus/Documentos/ASP.NET /CRUD/CRUD.csproj": {}
+    "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/CRUD.csproj": {}
   },
   "projects": {
-    "/home/matheus/Documentos/ASP.NET /CRUD/CRUD.csproj": {
+    "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/matheus/Documentos/ASP.NET /CRUD/CRUD.csproj",
+        "projectUniqueName": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "/home/matheus/Documentos/ASP.NET /CRUD/CRUD.csproj",
-        "packagesPath": "/home/matheus/.nuget/packages/",
-        "outputPath": "/home/matheus/Documentos/ASP.NET /CRUD/obj/",
+        "projectPath": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/CRUD.csproj",
+        "packagesPath": "/home/aluno/.nuget/packages/",
+        "outputPath": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/matheus/.nuget/NuGet/NuGet.Config"
+          "/home/aluno/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

@@ -1,5 +1,5 @@
 @model IQueryable<CRUD.Models.Usuario>
-@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+    
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,7 +31,7 @@
                    <td>@item.Nome</td> 
                    <td>@item.Email</td>
                    <td>
-                       <a asp-action="Cadastrar" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Alterar</a>
+                    <a asp-action="Cadastrar" asp-route-id="@item.Id" class="btn btn-sm btn-primary">Alterar</a>
                    </td>
                   </tr> 
                   
