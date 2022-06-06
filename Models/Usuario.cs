@@ -27,12 +27,23 @@ namespace CRUD.Models
             var usuarioExistente = Usuario.listagem.Find(u => u.Id == usuario.Id);
             if (usuarioExistente != null)
             {
-               usuarioExistente.Nome=usuario.Nome;
-               usuarioExistente.Email=usuario.Email;
-            }else{
-                int maiorId= Usuario.listagem.Max(u=>u.Id);
-                usuario.Id=maiorId+1;
+                usuarioExistente.Nome = usuario.Nome;
+                usuarioExistente.Email = usuario.Email;
+            }
+            else
+            {
+                int maiorId = Usuario.listagem.Max(u => u.Id);
+                usuario.Id = maiorId + 1;
                 Usuario.listagem.Add(usuario);
+            }
+        }
+
+        public static void Excluir(int? id)
+        {
+            var usuarioExistente = Usuario.listagem.Find(u => u.Id == id);
+            if (usuarioExistente != null)
+            {
+              Usuario.listagem.Remove(usuarioExistente);                    
             }
         }
     }

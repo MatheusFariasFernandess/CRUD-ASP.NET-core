@@ -16333,6 +16333,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Excluir.cshtml",
+      "TargetPath": "Views\\Home\\Excluir.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/aluno/Documentos/C#/Enquete_MVC/ASP.NET CRUD/CRUD-ASP.NET-core/Views/Home/Cadastrar.cshtml",
       "TargetPath": "Views\\Home\\Cadastrar.cshtml",
       "FileKind": "mvc"
